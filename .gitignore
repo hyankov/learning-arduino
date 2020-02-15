@@ -1,0 +1,8 @@
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/arduino.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history

@@ -1,0 +1,7 @@
+{
+    "sketch": "RGB_cycle/RGB_cycle.ino",
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "output": "../ArduinoOutput",
+    "programmer": "AVR ISP"
+}
