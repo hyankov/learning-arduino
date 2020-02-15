@@ -1,5 +1,5 @@
 {
-    "sketch": "RGB_cycle/RGB_cycle.ino",
+    "sketch": "RGB_button/RGB_button.ino",
     "port": "COM6",
     "board": "arduino:avr:uno",
     "output": "../ArduinoOutput",
